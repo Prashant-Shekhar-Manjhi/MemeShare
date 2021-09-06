@@ -1,0 +1,1 @@
+MemeShare Application is Built using Kotlin only for learning purpose.
